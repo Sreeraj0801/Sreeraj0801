@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me sreeraj.r.r0801@gmail.com is my emailId
+- 📫 To reach me sreeraj.r.r0801@gmail.com is my emailId
 
 <!---
 Sreeraj0801/Sreeraj0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
