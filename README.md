@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Sreeraj0801
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate
 - 📫 To reach me 0801.sreeraj.r@gmail.com is my emailId
 
 <!---
